@@ -1,0 +1,1 @@
+Structs project written in go
