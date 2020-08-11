@@ -1,1 +1,1 @@
-Structs project written in go
+Structs and pointers project written in go
